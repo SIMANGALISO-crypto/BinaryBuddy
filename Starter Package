@@ -1,0 +1,8 @@
+BinaryBuddy/
+├─ README.md
+├─ CONTRIBUTING.md
+├─ LICENSE
+├─ requirements.txt
+└─ prototype/
+   ├─ bytecode_demo.py
+   └─ pyc_reader.py
